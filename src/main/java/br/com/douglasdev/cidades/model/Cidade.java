@@ -170,6 +170,5 @@ public class Cidade implements Serializable {
 				+ ", lon=" + lon + ", lat=" + lat + ", noAccents=" + noAccents + ", alternativeNames="
 				+ alternativeNames + ", microregion=" + microregion + ", mesoregion=" + mesoregion + "]";
 	}
-	
-	
+
 }
